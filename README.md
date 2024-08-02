@@ -1,5 +1,5 @@
-About Me
-Data Analyst, Data Engineering, Public Speaking,  Market Research. 
+## About Me
+ 
 ## Kenneth Sunday
 
 **Sales Professional | Aspiring Data Scientist | Tech Enthusiast**
